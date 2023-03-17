@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lena</h1>
 <h3 align="center">A passionate Developer from Czechia</h3>
 
-- 🔭 I’m currently working on [Image Copression Algorithm](https://github.com/Lena-hal/Image-Compressor)
+- 🔭 I’m currently working on [Image Copression Algorithm](https://github.com/Lena-hal/Image-Compressor) and [Dungeon Delve](https://github.com/Lena-hal/Dungeon-Delve)
 
 - 🌱 I’m currently learning **C#**
 
