@@ -17,6 +17,12 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lena-hal&show_icons=true&theme=dark&locale=en&layout=compact" alt="lena-hal" /></p>
 
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lena-hal&show_icons=true&theme=dark&locale=en" alt="lena-hal" /></p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Lena-hal&theme=dark" alt="GitHub Streak">
+  </a>
+</p>
 
