@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Image Copression Algorithm](https://github.com/Lena-hal/Image-Compressor) and [Dungeon Delve](https://github.com/Lena-hal/Dungeon-Delve)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#** AND **Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lena-hal](https://github.com/Lena-hal)
 
