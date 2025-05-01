@@ -1,0 +1,21 @@
+*“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+*"If debugging is the process of removing bugs, then programming must be the process of putting them in."* – Edsger W. Dijkstra
+*"Deleted code is debugged code."* – Jeff Sickel
+*"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."* – Martin Golding
+*"A good programmer is someone who always looks both ways before crossing a one-way street."* – Doug Linder
+*"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning."* – Rick Cook
+*"There are only two kinds of programming languages: those people always complain about and those nobody uses."* – Bjarne Stroustrup
+*"I don’t always test my code, but when I do, I do it in production."* – Unknown
+*"Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!"* – Unknown
+*"In order to understand recursion, one must first understand recursion."* – Unknown
+*"The best thing about a boolean is even if you are wrong, you are only off by a bit."* – Unknown
+*"I have not failed. I've just found 10,000 ways that won't work."* – Thomas A. Edison
+*"To iterate is human, to recurse divine."* – L. Peter Deutsch
+*"Software and cathedrals are much the same – first we build them, then we pray."* – Unknown
+*"If Java had true garbage collection, most programs would delete themselves upon execution."* – Robert Sewell
+*"The best performance improvement is the transition from the nonworking state to the working state."* – J. Osterhout
+*"It's not a bug – it's an undocumented feature."* – Unknown
+*"The trouble with programmers is that you can never tell what a programmer is doing until it’s too late."* – Seymour Cray
+*"A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'"* – Unknown
+*"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."* – Bill Gates
+*"Good code is its own best documentation."* – Steve McConnell
