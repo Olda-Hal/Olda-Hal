@@ -26,9 +26,21 @@ I'm currently preparing to pursue a **Bachelor's degree in Bioinformatics** at [
 
 ## 📈 GitHub Stats
 
+<div align="center">
+
 ![Olda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olda-Hal&show_icons=true&theme=radical)
+
+</div>
+<div align="center">
+
 ![Olda's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Olda-Hal&theme=radical)
+
+</div>
+<div align="center">
+
 ![Olda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olda-Hal&layout=compact&theme=radical)
+
+</div>
 
 ## 🚀 Featured Projects
 
