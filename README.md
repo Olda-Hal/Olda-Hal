@@ -19,6 +19,7 @@ I'm currently preparing to pursue a **Bachelor's degree in Bioinformatics** at [
 - 🐧 **OS**: Arch Linux (btw)
 - 🌐 **Languages**:
   - English (Fluent)
+  - Czech (Fluent)
   - Russian (Basic)
   - Korean (Basic)
 - 🤝 **Soft Skills**: Team collaboration, code review, continuous learning
