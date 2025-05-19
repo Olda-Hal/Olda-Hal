@@ -61,6 +61,6 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"I have not failed. I've just found 10,000 ways that won't work."* – Thomas A. Edison
+> *"The best performance improvement is the transition from the nonworking state to the working state."* – J. Osterhout
 > <!--QUOTE_END-->
 
