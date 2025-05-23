@@ -61,6 +61,6 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"The best performance improvement is the transition from the nonworking state to the working state."* – J. Osterhout
+> *"Good code is its own best documentation."* – Steve McConnell
 > <!--QUOTE_END-->
 
