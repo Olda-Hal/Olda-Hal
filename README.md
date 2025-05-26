@@ -61,6 +61,6 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!"* – Unknown
+> *"If debugging is the process of removing bugs, then programming must be the process of putting them in."* – Edsger W. Dijkstra
 > <!--QUOTE_END-->
 
