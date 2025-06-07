@@ -61,6 +61,6 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"I have not failed. I've just found 10,000 ways that won't work."* – Thomas A. Edison
+> *"If Java had true garbage collection, most programs would delete themselves upon execution."* – Robert Sewell
 > <!--QUOTE_END-->
 
