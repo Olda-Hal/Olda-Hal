@@ -61,6 +61,6 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"In order to understand recursion, one must first understand recursion."* – Unknown
+> *"A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'"* – Unknown
 > <!--QUOTE_END-->
 
