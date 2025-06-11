@@ -61,6 +61,6 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'"* – Unknown
+> *"The best thing about a boolean is even if you are wrong, you are only off by a bit."* – Unknown
 > <!--QUOTE_END-->
 
