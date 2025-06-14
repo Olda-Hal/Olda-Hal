@@ -61,6 +61,6 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"I have not failed. I've just found 10,000 ways that won't work."* – Thomas A. Edison
+> *"Good code is its own best documentation."* – Steve McConnell
 > <!--QUOTE_END-->
 
