@@ -61,6 +61,6 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"Good code is its own best documentation."* – Steve McConnell
+> *"Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!"* – Unknown
 > <!--QUOTE_END-->
 
