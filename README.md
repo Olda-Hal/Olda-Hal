@@ -61,6 +61,6 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"If debugging is the process of removing bugs, then programming must be the process of putting them in."* – Edsger W. Dijkstra
+> *"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."* – Martin Golding
 > <!--QUOTE_END-->
 
