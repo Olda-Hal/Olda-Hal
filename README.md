@@ -61,6 +61,6 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"Software and cathedrals are much the same – first we build them, then we pray."* – Unknown
+> *"The best performance improvement is the transition from the nonworking state to the working state."* – J. Osterhout
 > <!--QUOTE_END-->
 
