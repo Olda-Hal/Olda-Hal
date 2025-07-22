@@ -61,6 +61,6 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"If Java had true garbage collection, most programs would delete themselves upon execution."* – Robert Sewell
+> *"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."* – Bill Gates
 > <!--QUOTE_END-->
 
