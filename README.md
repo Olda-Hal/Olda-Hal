@@ -61,6 +61,6 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"The trouble with programmers is that you can never tell what a programmer is doing until it’s too late."* – Seymour Cray
+> *"Good code is its own best documentation."* – Steve McConnell
 > <!--QUOTE_END-->
 
