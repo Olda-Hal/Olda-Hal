@@ -61,6 +61,6 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."* – Bill Gates
+> *"A good programmer is someone who always looks both ways before crossing a one-way street."* – Doug Linder
 > <!--QUOTE_END-->
 
