@@ -61,6 +61,6 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"A good programmer is someone who always looks both ways before crossing a one-way street."* – Doug Linder
+> *"Software and cathedrals are much the same – first we build them, then we pray."* – Unknown
 > <!--QUOTE_END-->
 
