@@ -61,6 +61,6 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'"* – Unknown
+> *"There are only two kinds of programming languages: those people always complain about and those nobody uses."* – Bjarne Stroustrup
 > <!--QUOTE_END-->
 
