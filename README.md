@@ -61,6 +61,6 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."* – Bill Gates
+> *"If debugging is the process of removing bugs, then programming must be the process of putting them in."* – Edsger W. Dijkstra
 > <!--QUOTE_END-->
 
