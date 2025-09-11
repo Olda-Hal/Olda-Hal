@@ -61,6 +61,6 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"If debugging is the process of removing bugs, then programming must be the process of putting them in."* – Edsger W. Dijkstra
+> *"It's not a bug – it's an undocumented feature."* – Unknown
 > <!--QUOTE_END-->
 
