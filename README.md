@@ -61,6 +61,6 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning."* – Rick Cook
+> *"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."* – Bill Gates
 > <!--QUOTE_END-->
 
