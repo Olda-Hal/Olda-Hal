@@ -61,6 +61,6 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"To iterate is human, to recurse divine."* – L. Peter Deutsch
+> *"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."* – Martin Golding
 > <!--QUOTE_END-->
 
