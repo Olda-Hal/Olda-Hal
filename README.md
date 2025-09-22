@@ -54,7 +54,7 @@ Feel free to explore my repositories for more projects and contributions.
 
 ## 📫 Let's Connect
 
-- 📧 Email: [oldrich.halabala@gmail.com](mailto:oldrich.halabala@gmail.com)
+- [Email](mailto:oldrich.halabala@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/old%C5%99ich-halabala-771855256/)
 - [GitHub](https://github.com/Olda-Hal)
 
@@ -63,4 +63,5 @@ Feel free to explore my repositories for more projects and contributions.
 > <!--QUOTE_START-->
 > *"Software and cathedrals are much the same – first we build them, then we pray."* – Unknown
 > <!--QUOTE_END-->
+
 
