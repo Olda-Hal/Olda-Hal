@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"If Java had true garbage collection, most programs would delete themselves upon execution."* – Robert Sewell
+> *"To iterate is human, to recurse divine."* – L. Peter Deutsch
 > <!--QUOTE_END-->
 
 
