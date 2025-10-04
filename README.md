@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"I don’t always test my code, but when I do, I do it in production."* – Unknown
+> *"I have not failed. I've just found 10,000 ways that won't work."* – Thomas A. Edison
 > <!--QUOTE_END-->
 
 
