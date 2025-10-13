@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"A good programmer is someone who always looks both ways before crossing a one-way street."* – Doug Linder
+> *"It's not a bug – it's an undocumented feature."* – Unknown
 > <!--QUOTE_END-->
 
 
