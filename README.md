@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"A good programmer is someone who always looks both ways before crossing a one-way street."* – Doug Linder
+> *"I have not failed. I've just found 10,000 ways that won't work."* – Thomas A. Edison
 > <!--QUOTE_END-->
 
 
