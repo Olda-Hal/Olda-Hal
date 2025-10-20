@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"Deleted code is debugged code."* – Jeff Sickel
+> *"It's not a bug – it's an undocumented feature."* – Unknown
 > <!--QUOTE_END-->
 
 
