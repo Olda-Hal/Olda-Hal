@@ -6,7 +6,7 @@ I'm a passionate **Full Stack Developer** currently working at [Hitachi Energy](
 
 ## 🎓 Education
 
-I'm currently preparing to pursue a **Bachelor's degree in Bioinformatics** at [Masaryk University](https://www.muni.cz), aiming to deepen my understanding of the intersection between biology and computer science.
+I'm currently pursuing a **Bachelor's degree in Bioinformatics** at [Masaryk University](https://www.muni.cz), aiming to deepen my understanding of the intersection between biology and computer science.
 
 ## 🧠 About Me
 
@@ -63,5 +63,6 @@ Feel free to explore my repositories for more projects and contributions.
 > <!--QUOTE_START-->
 > *"It's not a bug – it's an undocumented feature."* – Unknown
 > <!--QUOTE_END-->
+
 
 
