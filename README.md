@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"Deleted code is debugged code."* – Jeff Sickel
+> *"The best thing about a boolean is even if you are wrong, you are only off by a bit."* – Unknown
 > <!--QUOTE_END-->
 
 
