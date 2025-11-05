@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!"* – Unknown
+> *"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."* – Bill Gates
 > <!--QUOTE_END-->
 
 
