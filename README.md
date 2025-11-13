@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"The best performance improvement is the transition from the nonworking state to the working state."* – J. Osterhout
+> *"If Java had true garbage collection, most programs would delete themselves upon execution."* – Robert Sewell
 > <!--QUOTE_END-->
 
 
