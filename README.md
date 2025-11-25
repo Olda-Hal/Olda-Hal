@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"I have not failed. I've just found 10,000 ways that won't work."* – Thomas A. Edison
+> *"The best thing about a boolean is even if you are wrong, you are only off by a bit."* – Unknown
 > <!--QUOTE_END-->
 
 
