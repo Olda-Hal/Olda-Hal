@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"To iterate is human, to recurse divine."* – L. Peter Deutsch
+> *"I have not failed. I've just found 10,000 ways that won't work."* – Thomas A. Edison
 > <!--QUOTE_END-->
 
 
