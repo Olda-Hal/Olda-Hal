@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"I have not failed. I've just found 10,000 ways that won't work."* – Thomas A. Edison
+> *"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."* – Bill Gates
 > <!--QUOTE_END-->
 
 
