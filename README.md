@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"The best performance improvement is the transition from the nonworking state to the working state."* – J. Osterhout
+> *"A good programmer is someone who always looks both ways before crossing a one-way street."* – Doug Linder
 > <!--QUOTE_END-->
 
 
