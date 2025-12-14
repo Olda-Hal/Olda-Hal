@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"Good code is its own best documentation."* – Steve McConnell
+> *"In order to understand recursion, one must first understand recursion."* – Unknown
 > <!--QUOTE_END-->
 
 
