@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."* – Martin Golding
+> *"A good programmer is someone who always looks both ways before crossing a one-way street."* – Doug Linder
 > <!--QUOTE_END-->
 
 
