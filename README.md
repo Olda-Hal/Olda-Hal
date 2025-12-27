@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"I have not failed. I've just found 10,000 ways that won't work."* – Thomas A. Edison
+> *"In order to understand recursion, one must first understand recursion."* – Unknown
 > <!--QUOTE_END-->
 
 
