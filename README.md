@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"It's not a bug – it's an undocumented feature."* – Unknown
+> *"Good code is its own best documentation."* – Steve McConnell
 > <!--QUOTE_END-->
 
 
