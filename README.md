@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+> *"A good programmer is someone who always looks both ways before crossing a one-way street."* – Doug Linder
 > <!--QUOTE_END-->
 
 
