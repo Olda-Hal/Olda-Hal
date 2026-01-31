@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"There are only two kinds of programming languages: those people always complain about and those nobody uses."* – Bjarne Stroustrup
+> *"The best performance improvement is the transition from the nonworking state to the working state."* – J. Osterhout
 > <!--QUOTE_END-->
 
 
