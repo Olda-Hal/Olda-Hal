@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"A good programmer is someone who always looks both ways before crossing a one-way street."* – Doug Linder
+> *"If debugging is the process of removing bugs, then programming must be the process of putting them in."* – Edsger W. Dijkstra
 > <!--QUOTE_END-->
 
 
