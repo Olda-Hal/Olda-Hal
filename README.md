@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"If debugging is the process of removing bugs, then programming must be the process of putting them in."* – Edsger W. Dijkstra
+> *"The trouble with programmers is that you can never tell what a programmer is doing until it’s too late."* – Seymour Cray
 > <!--QUOTE_END-->
 
 
