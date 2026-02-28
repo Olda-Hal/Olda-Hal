@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"In order to understand recursion, one must first understand recursion."* – Unknown
+> *"To iterate is human, to recurse divine."* – L. Peter Deutsch
 > <!--QUOTE_END-->
 
 
