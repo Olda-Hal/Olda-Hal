@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"Deleted code is debugged code."* – Jeff Sickel
+> *"Good code is its own best documentation."* – Steve McConnell
 > <!--QUOTE_END-->
 
 
