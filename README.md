@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"Good code is its own best documentation."* – Steve McConnell
+> *"If Java had true garbage collection, most programs would delete themselves upon execution."* – Robert Sewell
 > <!--QUOTE_END-->
 
 
