@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"If Java had true garbage collection, most programs would delete themselves upon execution."* – Robert Sewell
+> *"The trouble with programmers is that you can never tell what a programmer is doing until it’s too late."* – Seymour Cray
 > <!--QUOTE_END-->
 
 
