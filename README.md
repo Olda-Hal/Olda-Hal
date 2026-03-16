@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"The trouble with programmers is that you can never tell what a programmer is doing until it’s too late."* – Seymour Cray
+> *"The best thing about a boolean is even if you are wrong, you are only off by a bit."* – Unknown
 > <!--QUOTE_END-->
 
 
