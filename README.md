@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"The best thing about a boolean is even if you are wrong, you are only off by a bit."* – Unknown
+> *"I don’t always test my code, but when I do, I do it in production."* – Unknown
 > <!--QUOTE_END-->
 
 
