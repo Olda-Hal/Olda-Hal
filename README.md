@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"The trouble with programmers is that you can never tell what a programmer is doing until it’s too late."* – Seymour Cray
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 > <!--QUOTE_END-->
 
 
