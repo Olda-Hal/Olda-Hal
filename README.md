@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"There are only two kinds of programming languages: those people always complain about and those nobody uses."* – Bjarne Stroustrup
+> *"Software and cathedrals are much the same – first we build them, then we pray."* – Unknown
 > <!--QUOTE_END-->
 
 
