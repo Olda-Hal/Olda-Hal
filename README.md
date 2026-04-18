@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'"* – Unknown
+> *"Deleted code is debugged code."* – Jeff Sickel
 > <!--QUOTE_END-->
 
 
