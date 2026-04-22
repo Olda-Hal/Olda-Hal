@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"The trouble with programmers is that you can never tell what a programmer is doing until it’s too late."* – Seymour Cray
+> *"There are only two kinds of programming languages: those people always complain about and those nobody uses."* – Bjarne Stroustrup
 > <!--QUOTE_END-->
 
 
