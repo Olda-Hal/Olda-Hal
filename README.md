@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+> *"There are only two kinds of programming languages: those people always complain about and those nobody uses."* – Bjarne Stroustrup
 > <!--QUOTE_END-->
 
 
