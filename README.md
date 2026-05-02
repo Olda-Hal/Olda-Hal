@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"There are only two kinds of programming languages: those people always complain about and those nobody uses."* – Bjarne Stroustrup
+> *"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning."* – Rick Cook
 > <!--QUOTE_END-->
 
 
