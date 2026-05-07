@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"Deleted code is debugged code."* – Jeff Sickel
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 > <!--QUOTE_END-->
 
 
