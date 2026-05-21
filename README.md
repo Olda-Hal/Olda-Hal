@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."* – Martin Golding
+> *"The best thing about a boolean is even if you are wrong, you are only off by a bit."* – Unknown
 > <!--QUOTE_END-->
 
 
