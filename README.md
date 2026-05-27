@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"To iterate is human, to recurse divine."* – L. Peter Deutsch
+> *"I don’t always test my code, but when I do, I do it in production."* – Unknown
 > <!--QUOTE_END-->
 
 
