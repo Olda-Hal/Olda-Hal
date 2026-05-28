@@ -2,7 +2,7 @@
 
 > *Pronounced*: **[ohl-drzhikh]** — but feel free to call me **Olda** 😊
 
-I'm a passionate **Full Stack Developer** currently working at [Hitachi Energy](https://www.hitachienergy.com/), where I contribute to the development of internal automation tools and support the technical department in Brno, Czech Republic.
+I'm a passionate **Full Stack Biomedical Software Engineer** currently working at [Premedical](https://cepem.cz/), where I serve as a Technical Lead responsible for the software architecture and development of a telemedicine system, as well as full stack web development and technical operations support in Brno, Czech Republic.
 
 ## 🎓 Education
 
@@ -13,9 +13,9 @@ I'm currently pursuing a **Bachelor's degree in Bioinformatics** at [Masaryk Uni
 - 💼 **Current Role**: Full Stack Software Engineer at Hitachi Energy
 - 🛠️ **Tech Stack**:
   - **Backend**: C#, .NET 6+, MySQL
-  - **Frontend**: WPF, Uno Framework
+  - **Frontend**: WPF, React
   - **Scripting**: Python
-- ⚙️ **Tools**: GitHub Actions, Git, Azure
+- ⚙️ **Tools**: GitHub Actions, Git, Azure, Docker
 - 🐧 **OS**: Arch Linux (btw)
 - 🌐 **Languages**:
   - English (Fluent)
