@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"I don’t always test my code, but when I do, I do it in production."* – Unknown
+> *"There are only two kinds of programming languages: those people always complain about and those nobody uses."* – Bjarne Stroustrup
 > <!--QUOTE_END-->
 
 
