@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"A good programmer is someone who always looks both ways before crossing a one-way street."* – Doug Linder
+> *"In order to understand recursion, one must first understand recursion."* – Unknown
 > <!--QUOTE_END-->
 
 
