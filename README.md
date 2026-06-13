@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"It's not a bug – it's an undocumented feature."* – Unknown
+> *"Software and cathedrals are much the same – first we build them, then we pray."* – Unknown
 > <!--QUOTE_END-->
 
 
