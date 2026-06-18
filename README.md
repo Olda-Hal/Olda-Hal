@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."* – Bill Gates
+> *"Software and cathedrals are much the same – first we build them, then we pray."* – Unknown
 > <!--QUOTE_END-->
 
 
