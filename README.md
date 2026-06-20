@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"There are only two kinds of programming languages: those people always complain about and those nobody uses."* – Bjarne Stroustrup
+> *"I have not failed. I've just found 10,000 ways that won't work."* – Thomas A. Edison
 > <!--QUOTE_END-->
 
 
