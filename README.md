@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'"* – Unknown
+> *"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."* – Bill Gates
 > <!--QUOTE_END-->
 
 
