@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"I don’t always test my code, but when I do, I do it in production."* – Unknown
+> *"Deleted code is debugged code."* – Jeff Sickel
 > <!--QUOTE_END-->
 
 
