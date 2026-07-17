@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"Software and cathedrals are much the same – first we build them, then we pray."* – Unknown
+> *"If Java had true garbage collection, most programs would delete themselves upon execution."* – Robert Sewell
 > <!--QUOTE_END-->
 
 
