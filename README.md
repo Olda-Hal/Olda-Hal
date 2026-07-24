@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'"* – Unknown
+> *"The trouble with programmers is that you can never tell what a programmer is doing until it’s too late."* – Seymour Cray
 > <!--QUOTE_END-->
 
 
