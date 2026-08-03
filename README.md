@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"If Java had true garbage collection, most programs would delete themselves upon execution."* – Robert Sewell
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 > <!--QUOTE_END-->
 
 
