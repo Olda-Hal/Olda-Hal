@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"In order to understand recursion, one must first understand recursion."* – Unknown
+> *"It's not a bug – it's an undocumented feature."* – Unknown
 > <!--QUOTE_END-->
 
 
