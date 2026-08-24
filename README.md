@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"It's not a bug – it's an undocumented feature."* – Unknown
+> *"There are only two kinds of programming languages: those people always complain about and those nobody uses."* – Bjarne Stroustrup
 > <!--QUOTE_END-->
 
 
