@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"In order to understand recursion, one must first understand recursion."* – Unknown
+> *"The best performance improvement is the transition from the nonworking state to the working state."* – J. Osterhout
 > <!--QUOTE_END-->
 
 
