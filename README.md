@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"The trouble with programmers is that you can never tell what a programmer is doing until it’s too late."* – Seymour Cray
+> *"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning."* – Rick Cook
 > <!--QUOTE_END-->
 
 
