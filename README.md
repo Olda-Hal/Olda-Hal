@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"The best thing about a boolean is even if you are wrong, you are only off by a bit."* – Unknown
+> *"In order to understand recursion, one must first understand recursion."* – Unknown
 > <!--QUOTE_END-->
 
 
