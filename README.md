@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"A SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'"* – Unknown
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 > <!--QUOTE_END-->
 
 
