@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"Software and cathedrals are much the same – first we build them, then we pray."* – Unknown
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 > <!--QUOTE_END-->
 
 
