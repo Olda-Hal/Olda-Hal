@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!"* – Unknown
+> *"The best performance improvement is the transition from the nonworking state to the working state."* – J. Osterhout
 > <!--QUOTE_END-->
 
 
