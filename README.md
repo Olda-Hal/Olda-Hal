@@ -61,7 +61,7 @@ Feel free to explore my repositories for more projects and contributions.
 ---
 
 > <!--QUOTE_START-->
-> *"To iterate is human, to recurse divine."* – L. Peter Deutsch
+> *"A good programmer is someone who always looks both ways before crossing a one-way street."* – Doug Linder
 > <!--QUOTE_END-->
 
 
